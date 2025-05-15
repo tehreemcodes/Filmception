@@ -53,13 +53,11 @@ Instructions for installation and usage are available in the documentation folde
 
 ## Project Structure
 
-data/: Dataset files and processed data
-models/: Trained machine learning models
-audio/: Generated audio files
-notebooks/: Development notebooks showing preprocessing and model training
-src/: Source code for preprocessing, translation, and prediction
-docs/: Documentation files
-main.py: Primary entry point for the application
+- data/: Dataset files and processed data
+- models/: Trained machine learning models
+- audio/: Generated audio files
+- notebooks/: Development notebooks showing preprocessing and model training
+- docs/: Documentation files
 
 ## Technologies Used
 
